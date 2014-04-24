@@ -1,4 +1,4 @@
-/copyrightravinsardal
+//copyrightravinsardal
 
 
 #include <Servo.h> 
